@@ -134,7 +134,7 @@ useEffect(() => {
                         width={400}
                         height={600}
                         alt={item.title}
-                        className="w-full object-cover h-48"
+                        className="w-full object-cover h-96"
                       />
                       <div className="p-4">
                         <h3 className="text-lg font-bold">{item.title}</h3>
