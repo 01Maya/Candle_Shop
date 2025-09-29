@@ -26,4 +26,4 @@ A minimal, elegant, and responsive landing page for **Glow Candles**. Built with
 
 ## Screenshot
 
-![Image](https://github.com/user-attachments/assets/ecb55bb3-00ed-4bfc-bb0c-ad6497ac501f)
+![Image](https://github.com/user-attachments/assets/a25bc1e2-1e76-4fba-8a42-af7f5edab4c3
