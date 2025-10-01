@@ -24,6 +24,10 @@ A minimal, elegant, and responsive landing page for **Glow Candles**. Built with
 
 * Contact info, social links, and tagline: **“Light up life, one candle at a time.”**
 
+## Preview
+
+https://candle-shop-o1.vercel.app/
+
 ## Screenshot
 
 ![Image](https://github.com/user-attachments/assets/4885d784-6efa-41cc-9d76-a5b4301ba367)
