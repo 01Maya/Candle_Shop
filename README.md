@@ -31,3 +31,6 @@ https://candle-shop-o1.vercel.app/
 ## Screenshot
 
 ![Image](https://github.com/user-attachments/assets/4885d784-6efa-41cc-9d76-a5b4301ba367)
+
+
+---
