@@ -4,7 +4,7 @@
 
 A minimal, elegant, and responsive landing page for **Glow Candles**. Built with **Next.js**, **React**, and **Tailwind CSS**, featuring smooth animations, rotating headlines, and a cozy pastel-themed design.
 
-## ✨ Features
+## ✨ Features 💎
 
 * 🕯️ **Hero Section**: Rotating headline "Hand-Poured Candles, Soy Wax Candles, Scented Candles" with CTA buttons **Shop Now** & **View Collection**
 * 🌿 **Our Latest Creations**: Signature candles and scented collections
