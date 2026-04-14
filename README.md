@@ -1,6 +1,6 @@
 ---
 
-# 🕯️ Glow Candles – Handcrafted Candle Shop
+# 🕯️ Glow Candles – Handcrafted Candle Shop ✨
 
 A minimal, elegant, and responsive landing page for **Glow Candles**. Built with **Next.js**, **React**, and **Tailwind CSS**, featuring smooth animations, rotating headlines, and a cozy pastel-themed design.
 
